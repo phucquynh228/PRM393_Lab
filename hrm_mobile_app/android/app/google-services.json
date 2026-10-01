@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061218026578",
+    "project_id": "hrm-cafe",
+    "storage_bucket": "hrm-cafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061218026578:android:b7eca8a87d80b1218f4b8b",
+        "android_client_info": {
+          "package_name": "com.example.hrm_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMG25ONq1kZidxXIudOpdYpgQU17OZKd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
